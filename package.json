@@ -1,0 +1,16 @@
+{
+  "author": "Andrey Tarantsov <andrey@tarantsov.com>",
+  "name": "plist-to-json",
+  "description": "A tiny command-line tool to convert (xml) .plist files to JSON format",
+  "version": "1.0.0",
+  "bin": "bin/plist-to-json.js",
+  "dependencies": {
+    "plist": "~0.2.1",
+    "dreamopt": "~0.6.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
