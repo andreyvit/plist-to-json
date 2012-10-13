@@ -7,7 +7,7 @@ We all made this mistake at least once: deciding that plist is an ideal format f
 Installation
 ------------
 
-    npm install plist-to-json
+    sudo npm install -g plist-to-json
 
 
 Usage

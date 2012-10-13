@@ -3,6 +3,7 @@
   "name": "plist-to-json",
   "description": "A tiny command-line tool to convert (xml) .plist files to JSON format",
   "version": "1.0.0",
+  "preferGlobal": true,
   "bin": "bin/plist-to-json.js",
   "dependencies": {
     "plist": "~0.2.1",
