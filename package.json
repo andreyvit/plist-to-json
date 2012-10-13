@@ -2,7 +2,7 @@
   "author": "Andrey Tarantsov <andrey@tarantsov.com>",
   "name": "plist-to-json",
   "description": "A tiny command-line tool to convert (xml) .plist files to JSON format",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "preferGlobal": true,
   "bin": "bin/plist-to-json.js",
   "dependencies": {
