@@ -6,8 +6,8 @@
   "preferGlobal": true,
   "bin": "bin/plist-to-json.js",
   "dependencies": {
-    "plist": "~0.2.1",
-    "dreamopt": "~0.6.0"
+    "plist": "~3.0.1",
+    "dreamopt": "~0.8.0"
   },
   "devDependencies": {},
   "optionalDependencies": {},
