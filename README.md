@@ -1,6 +1,8 @@
 plist-to-json
 =============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/andreyvit/plist-to-json.svg)](https://greenkeeper.io/)
+
 We all made this mistake at least once: deciding that plist is an ideal format for some piece of data. Once you realize your wrongdoings, this tool will help you liberate your data.
 
 
