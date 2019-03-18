@@ -22,5 +22,8 @@ module.exports = ->
     process.stderr.write "Failed to parse file #{options.sourceFile}: #{err.stack || err.message || err}\n"
     process.exit 1
 
+  if options.indent == "\\t"
+    options.indent = "\t"
+
   data = JSON.stringify(obj, null, options.indent)
   process.stdout.write data.trim() + "\n"

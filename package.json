@@ -5,6 +5,22 @@
   "version": "1.0.2",
   "preferGlobal": true,
   "bin": "bin/plist-to-json.js",
+
+  "keywords": [
+    "converter",
+    "json",
+    "plist"
+  ],
+
+  "homepage": "https://github.com/andreyvit/dreamopt.js#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andreyvit/dreamopt.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andreyvit/dreamopt.js/issues"
+  },
+
   "dependencies": {
     "plist": "~0.2.1",
     "dreamopt": "~0.6.0"
